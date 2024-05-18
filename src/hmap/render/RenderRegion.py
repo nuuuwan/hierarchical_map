@@ -64,8 +64,8 @@ class RenderRegion:
             )
         ]
 
-        if region.child_regions:
-            for child in region.child_regions:
+        if region.children:
+            for child in region.children:
                 inner.append(RenderRegion.render_region(t, child))
 
         return _('g', inner)
