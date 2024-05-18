@@ -8,6 +8,14 @@ class BBox:
     south_east: LatLng
     north_west: LatLng
 
+    def to_tuple(self) -> tuple[float, float, float, float]:
+        return (
+            self.south_east.lat,
+            self.south_east.lng,
+            self.north_west.lat,
+            self.north_west.lng,
+        )
+
     @staticmethod
     def from_centroid(centroid: LatLng, radius: float) -> 'BBox':
         return BBox(
