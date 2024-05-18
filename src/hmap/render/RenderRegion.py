@@ -42,16 +42,16 @@ class RenderRegion:
             _(
                 'rect',
                 None,
-                {
-                    'x': x_west,
-                    'y': y_north,
-                    'width': x_east - x_west,
-                    'height': y_south - y_north,
-                    'fill': '#808080',
-                    'fill_opacity': '0.25',
-                    'stroke': '#808080',
-                    'stroke-width': 1,
-                },
+                dict(
+                    x=x_west,
+                    y=y_north,
+                    width=x_east - x_west,
+                    height=y_south - y_north,
+                    fill='#808080',
+                    fill_opacity='0.25',
+                    stroke='#808080',
+                    stroke_width=1,
+                ),
             )
         ]
 
@@ -68,7 +68,12 @@ class RenderRegion:
         svg_path = os.path.join(self.DIR_RENDER, f'{self.region.id}.svg')
 
         svg = _(
-            'svg', [RenderRegion.render_region(self.get_t(), self.region)]
+            'svg',
+            [RenderRegion.render_region(self.get_t(), self.region)],
+            dict(
+                width=self.WIDTH,
+                height=self.HEIGHT,
+            ),
         )
         svg.store(svg_path)
         log.info(f'Wrote SVG to {svg_path}')
