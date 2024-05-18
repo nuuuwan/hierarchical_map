@@ -11,17 +11,17 @@ from utils_future import BBox, LatLng
 class Region:
     id: str
     name: str
-    childrens: list['Region']
+    children: list['Region']
     centroid: LatLng
     size: float
 
     @property
     def bbox(self):
-        if self.childrens is None:
+        if self.children is None:
             assert self.centroid is not None
             return BBox.from_centroid(self.centroid, self.size)
 
-        return BBox.merge([region.bbox for region in self.childrens])
+        return BBox.merge([region.bbox for region in self.children])
 
     @staticmethod
     def build_lk():
@@ -38,7 +38,7 @@ class Region:
                 Region(
                     id=district.id,
                     name=district.name,
-                    childrens=None,
+                    children=None,
                     centroid=LatLng.from_tuple(district.centroid),
                     size=district.population / 20_000_000,
                 )
@@ -50,7 +50,7 @@ class Region:
                 Region(
                     id=province.id,
                     name=province.name,
-                    childrens=get_district_regions(province.id),
+                    children=get_district_regions(province.id),
                     centroid=None,
                     size=None,
                 )
@@ -60,7 +60,7 @@ class Region:
         root_region = Region(
             id='LK',
             name='Sri Lanka',
-            childrens=get_province_regions(),
+            children=get_province_regions(),
             centroid=None,
             size=None,
         )
