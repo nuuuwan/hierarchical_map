@@ -9,3 +9,6 @@ class LatLng:
     @staticmethod
     def from_tuple(t: tuple[float, float]) -> 'LatLng':
         return LatLng(t[0], t[1])
+
+    def to_tuple(self) -> tuple[float, float]:
+        return self.lat, self.lng
