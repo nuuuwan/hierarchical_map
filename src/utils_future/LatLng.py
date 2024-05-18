@@ -18,3 +18,15 @@ class LatLng:
     @staticmethod
     def from_tuple(t: tuple[float, float]) -> 'LatLng':
         return LatLng(t[0], t[1])
+
+    def __mul__(self, k: float):
+        return LatLng(self.lat * k, self.lng * k)
+
+    def __rmul__(self, other):
+        return self.__mul__(other)
+
+    def __add__(self, other: 'LatLng') -> 'LatLng':
+        return LatLng(self.lat + other.lat, self.lng + other.lng)
+
+    def __sub__(self, other: 'LatLng') -> 'LatLng':
+        return LatLng(self.lat - other.lat, self.lng - other.lng)

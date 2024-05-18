@@ -5,38 +5,38 @@ from utils_future.LatLng import LatLng
 
 @dataclass
 class BBox:
-    south_east: LatLng
-    north_west: LatLng
+    min_latlng: LatLng
+    max_latlng: LatLng
 
     @property
     def dlat(self) -> float:
-        return self.north_west.lat - self.south_east.lat
+        return self.max_latlng.lat - self.min_latlng.lat
 
     @property
     def dlng(self) -> float:
-        return self.north_west.lng - self.south_east.lng
+        return self.max_latlng.lng - self.min_latlng.lng
 
     @property
     def mid(self) -> LatLng:
         return LatLng(
-            (self.south_east.lat + self.north_west.lat) / 2,
-            (self.south_east.lng + self.north_west.lng) / 2,
+            (self.min_latlng.lat + self.max_latlng.lat) / 2,
+            (self.min_latlng.lng + self.max_latlng.lng) / 2,
         )
 
     def is_overlapping(self, other: 'BBox') -> bool:
         return (
-            self.south_east.lat <= other.north_west.lat
-            and self.north_west.lat >= other.south_east.lat
-            and self.south_east.lng <= other.north_west.lng
-            and self.north_west.lng >= other.south_east.lng
+            self.min_latlng.lat <= other.max_latlng.lat
+            and self.max_latlng.lat >= other.min_latlng.lat
+            and self.min_latlng.lng <= other.max_latlng.lng
+            and self.max_latlng.lng >= other.min_latlng.lng
         )
 
     def to_tuple(self) -> tuple[float, float, float, float]:
         return (
-            self.south_east.lat,
-            self.south_east.lng,
-            self.north_west.lat,
-            self.north_west.lng,
+            self.min_latlng.lat,
+            self.min_latlng.lng,
+            self.max_latlng.lat,
+            self.max_latlng.lng,
         )
 
     @staticmethod
@@ -58,10 +58,10 @@ class BBox:
         max_lat, max_lng = -90, -180
 
         for bbox in bbox_list:
-            min_lat = min(min_lat, bbox.south_east.lat)
-            min_lng = min(min_lng, bbox.south_east.lng)
-            max_lat = max(max_lat, bbox.north_west.lat)
-            max_lng = max(max_lng, bbox.north_west.lng)
+            min_lat = min(min_lat, bbox.min_latlng.lat)
+            min_lng = min(min_lng, bbox.min_latlng.lng)
+            max_lat = max(max_lat, bbox.max_latlng.lat)
+            max_lng = max(max_lng, bbox.max_latlng.lng)
 
         return BBox(
             LatLng(min_lat, min_lng),
