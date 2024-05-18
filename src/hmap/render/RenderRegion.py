@@ -31,7 +31,6 @@ class RenderRegion:
             x_padding = (self.WIDTH - actual_width) / 2
             y_padding = (self.HEIGHT - actual_height) / 2
 
-
             plat = (lat - min_lat) / (max_lat - min_lat)
             plng = (lng - min_lng) / (max_lng - min_lng)
 
@@ -46,7 +45,9 @@ class RenderRegion:
         bbox = region.bbox
         x_west, y_south = t(bbox.south_east)
         x_east, y_north = t(bbox.north_west)
-
+        width = x_east - x_west
+        height = y_south - y_north
+        font_size = min(width, height) // 2
         inner = [
             _(
                 'rect',
@@ -54,14 +55,26 @@ class RenderRegion:
                 dict(
                     x=x_west,
                     y=y_north,
-                    width=x_east - x_west,
-                    height=y_south - y_north,
+                    width=width,
+                    height=height,
                     fill='#888',
                     fill_opacity=0.25,
                     stroke='#fff',
                     stroke_width=1,
                 ),
-            )
+            ),
+            _(
+                'text',
+                None if region.children else region.name[:1],
+                dict(
+                    x=(x_west + x_east) / 2,
+                    y=(y_south + y_north) / 2,
+                    font_size=font_size,
+                    text_anchor='middle',
+                    alignment_baseline='middle',
+                    fill='#000',
+                ),
+            ),
         ]
 
         if region.children:

@@ -8,6 +8,29 @@ class BBox:
     south_east: LatLng
     north_west: LatLng
 
+    @property
+    def dlat(self) -> float:
+        return self.north_west.lat - self.south_east.lat
+
+    @property
+    def dlng(self) -> float:
+        return self.north_west.lng - self.south_east.lng
+
+    @property
+    def mid(self) -> LatLng:
+        return LatLng(
+            (self.south_east.lat + self.north_west.lat) / 2,
+            (self.south_east.lng + self.north_west.lng) / 2,
+        )
+
+    def is_overlapping(self, other: 'BBox') -> bool:
+        return (
+            self.south_east.lat <= other.north_west.lat
+            and self.north_west.lat >= other.south_east.lat
+            and self.south_east.lng <= other.north_west.lng
+            and self.north_west.lng >= other.south_east.lng
+        )
+
     def to_tuple(self) -> tuple[float, float, float, float]:
         return (
             self.south_east.lat,
