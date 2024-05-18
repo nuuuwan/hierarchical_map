@@ -1,0 +1,2048 @@
+{
+  "id": "LK",
+  "name": "Sri Lanka",
+  "color": "white",
+  "children": [
+    {
+      "id": "LK-1",
+      "name": "Western",
+      "color": "#800",
+      "children": [
+        {
+          "id": "EC-01",
+          "name": "Colombo",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-01A",
+              "name": "Colombo North",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                13.691509383232884,
+                77.80688310052153
+              ],
+              "size": 0.36195579840638
+            },
+            {
+              "id": "EC-01B",
+              "name": "Colombo Central",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                13.761363194183048,
+                77.00587159794878
+              ],
+              "size": 0.43841874959905625
+            },
+            {
+              "id": "EC-01C",
+              "name": "Borella",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                12.995619218796218,
+                77.88529612032431
+              ],
+              "size": 0.29967649223787973
+            },
+            {
+              "id": "EC-01D",
+              "name": "Colombo East",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                13.207525683583224,
+                78.4910595261183
+              ],
+              "size": 0.3053850029061676
+            },
+            {
+              "id": "EC-01E",
+              "name": "Colombo West",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                12.93887040165012,
+                77.22696645399316
+              ],
+              "size": 0.23384182688304503
+            },
+            {
+              "id": "EC-01F",
+              "name": "Dehiwala",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                12.603393744307311,
+                78.60992299173824
+              ],
+              "size": 0.2982649828592019
+            },
+            {
+              "id": "EC-01G",
+              "name": "Ratmalana",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                11.995591294323741,
+                78.18863723647624
+              ],
+              "size": 0.30904045042680095
+            },
+            {
+              "id": "EC-01H",
+              "name": "Kolonnawa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                14.608327572527031,
+                78.22599369880191
+              ],
+              "size": 0.437820739572716
+            },
+            {
+              "id": "EC-01I",
+              "name": "Kotte",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                13.842004123842194,
+                78.5042923622648
+              ],
+              "size": 0.32845547643478257
+            },
+            {
+              "id": "EC-01J",
+              "name": "Kaduwela",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                13.843395284298094,
+                79.33638219825241
+              ],
+              "size": 0.5020368512370381
+            },
+            {
+              "id": "EC-01K",
+              "name": "Avissawella",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                12.935257758483903,
+                79.31498298225432
+              ],
+              "size": 0.40559832346793545
+            },
+            {
+              "id": "EC-01L",
+              "name": "Homagama",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                11.892205241027842,
+                79.41152978592052
+              ],
+              "size": 0.5024629339563268
+            },
+            {
+              "id": "EC-01M",
+              "name": "Maharagama",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                12.242372998570644,
+                77.34663403876334
+              ],
+              "size": 0.4431963447502698
+            },
+            {
+              "id": "EC-01N",
+              "name": "Kesbewa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                11.191218071962012,
+                77.79708823850987
+              ],
+              "size": 0.49520904676712035
+            },
+            {
+              "id": "EC-01O",
+              "name": "Moratuwa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                12.32430263874187,
+                76.4929342119971
+              ],
+              "size": 0.4102194534636308
+            }
+          ],
+          "centroid": null,
+          "size": 1.5244553125624902
+        },
+        {
+          "id": "EC-02",
+          "name": "Gampaha",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-02A",
+              "name": "Wattala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                18.048601219659194,
+                75.90573816904148
+              ],
+              "size": 0.4189570383702845
+            },
+            {
+              "id": "EC-02B",
+              "name": "Negombo",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                18.12614847643045,
+                74.25909711141648
+              ],
+              "size": 0.37700928370532205
+            },
+            {
+              "id": "EC-02C",
+              "name": "Katana",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                18.95039227524602,
+                75.11837008621256
+              ],
+              "size": 0.4818225814550414
+            },
+            {
+              "id": "EC-02D",
+              "name": "Divulapitiya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                18.935093370378503,
+                76.39617592397784
+              ],
+              "size": 0.3767585433669686
+            },
+            {
+              "id": "EC-02E",
+              "name": "Mirigama",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                18.133241875648896,
+                76.73087656052545
+              ],
+              "size": 0.405684606560318
+            },
+            {
+              "id": "EC-02F",
+              "name": "Minuwangoda",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                17.251534108443067,
+                75.01248022680713
+              ],
+              "size": 0.4222925526219945
+            },
+            {
+              "id": "EC-02G",
+              "name": "Attanagalla",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                17.206418470152446,
+                76.50914779243519
+              ],
+              "size": 0.4225363889654949
+            },
+            {
+              "id": "EC-02H",
+              "name": "Gampaha",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                16.383789157828428,
+                75.58729920334451
+              ],
+              "size": 0.4445975708435664
+            },
+            {
+              "id": "EC-02I",
+              "name": "Ja Ela",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                17.143297543415716,
+                74.1408588277755
+              ],
+              "size": 0.4489109043006196
+            },
+            {
+              "id": "EC-02J",
+              "name": "Mahara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                15.50409681354429,
+                76.4886210160665
+              ],
+              "size": 0.45583110907440266
+            },
+            {
+              "id": "EC-02K",
+              "name": "Dompe",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                16.39068525752845,
+                76.72733793960919
+              ],
+              "size": 0.39243470794515617
+            },
+            {
+              "id": "EC-02L",
+              "name": "Biyagama",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                15.506949522407567,
+                75.23946797228012
+              ],
+              "size": 0.4319548587526248
+            },
+            {
+              "id": "EC-02M",
+              "name": "Kelaniya",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                16.323048449991436,
+                74.44396572713012
+              ],
+              "size": 0.37059276841298455
+            }
+          ],
+          "centroid": null,
+          "size": 1.5181676455517026
+        },
+        {
+          "id": "EC-03",
+          "name": "Kalutara",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-03A",
+              "name": "Panadura",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                10.288565259550342,
+                78.62449825005677
+              ],
+              "size": 0.4001112345335982
+            },
+            {
+              "id": "EC-03B",
+              "name": "Bandaragama",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                9.490153668274754,
+                79.45348947377263
+              ],
+              "size": 0.4284950408114428
+            },
+            {
+              "id": "EC-03C",
+              "name": "Horana",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                10.220341987126861,
+                80.29206812101643
+              ],
+              "size": 0.40897432682260143
+            },
+            {
+              "id": "EC-03D",
+              "name": "Bulathsinhala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                8.730276640333617,
+                79.78255260421591
+              ],
+              "size": 0.3312687730529396
+            },
+            {
+              "id": "EC-03E",
+              "name": "Mathugama",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                8.017075738257958,
+                79.29958414374397
+              ],
+              "size": 0.38111153223170774
+            },
+            {
+              "id": "EC-03F",
+              "name": "Kalutara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                9.185396874201462,
+                78.1352845466325
+              ],
+              "size": 0.3966371137450453
+            },
+            {
+              "id": "EC-03G",
+              "name": "Beruwala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                8.353705443615354,
+                78.5119814803565
+              ],
+              "size": 0.40616376007713934
+            },
+            {
+              "id": "EC-03H",
+              "name": "Agalawatta",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                8.156684337169619,
+                80.47379017840808
+              ],
+              "size": 0.3590779859584823
+            }
+          ],
+          "centroid": null,
+          "size": 1.1054175681614617
+        }
+      ],
+      "centroid": null,
+      "size": 2.418831329382022
+    },
+    {
+      "id": "LK-2",
+      "name": "Central",
+      "color": "#080",
+      "children": [
+        {
+          "id": "EC-04",
+          "name": "Kandy",
+          "color": "#080",
+          "children": [
+            {
+              "id": "EC-04A",
+              "name": "Galagedara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                6.26009781420858,
+                82.62560539131695
+              ],
+              "size": 0.26005384057921543
+            },
+            {
+              "id": "EC-04B",
+              "name": "Harispattuwa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                7.099588293412289,
+                83.19158699502916
+              ],
+              "size": 0.45579820096178525
+            },
+            {
+              "id": "EC-04C",
+              "name": "Pathadumbara",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                6.30655282438898,
+                83.32920794805278
+              ],
+              "size": 0.33635695325056086
+            },
+            {
+              "id": "EC-04D",
+              "name": "Ududumbara",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                5.923032558806227,
+                83.93879363223448
+              ],
+              "size": 0.2720477899193449
+            },
+            {
+              "id": "EC-04E",
+              "name": "Teldeniya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                5.722469261977105,
+                83.20600154283065
+              ],
+              "size": 0.24705060210410335
+            },
+            {
+              "id": "EC-04F",
+              "name": "Kundasale",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                5.544800576308477,
+                82.56290497187894
+              ],
+              "size": 0.35646879246295876
+            },
+            {
+              "id": "EC-04G",
+              "name": "Hewaheta",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                4.890193192924674,
+                82.68928975673009
+              ],
+              "size": 0.2975449545866977
+            },
+            {
+              "id": "EC-04H",
+              "name": "Senkadagala",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                6.672335707699668,
+                82.01771721032779
+              ],
+              "size": 0.33525065249750075
+            },
+            {
+              "id": "EC-04I",
+              "name": "Mahanuwara",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                6.113860491105886,
+                81.98182241392598
+              ],
+              "size": 0.22313000694662294
+            },
+            {
+              "id": "EC-04J",
+              "name": "Yatinuwara",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                6.161674233991279,
+                81.35366321056912
+              ],
+              "size": 0.3256178742022618
+            },
+            {
+              "id": "EC-04K",
+              "name": "Udunuwara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                5.50193952816427,
+                81.71125108806183
+              ],
+              "size": 0.33302402315748936
+            },
+            {
+              "id": "EC-04L",
+              "name": "Gampola",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                4.8586418629987875,
+                83.35107743252766
+              ],
+              "size": 0.3637114240713371
+            },
+            {
+              "id": "EC-04M",
+              "name": "Nawalapitiya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                4.806821842156063,
+                82.03615366931953
+              ],
+              "size": 0.35276479416177575
+            }
+          ],
+          "centroid": null,
+          "size": 1.1727668139915965
+        },
+        {
+          "id": "EC-05",
+          "name": "Matale",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-05A",
+              "name": "Dambulla",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                7.73576370763019,
+                85.03070548106425
+              ],
+              "size": 0.41462392598594694
+            },
+            {
+              "id": "EC-05B",
+              "name": "Laggala",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                7.014200265869443,
+                85.59246789120525
+              ],
+              "size": 0.2968686578269926
+            },
+            {
+              "id": "EC-05C",
+              "name": "Matale",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                6.991695248223069,
+                84.53947412569752
+              ],
+              "size": 0.3281417376683436
+            },
+            {
+              "id": "EC-05D",
+              "name": "Rattota",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                6.321479432427013,
+                85.0743302358029
+              ],
+              "size": 0.34177477964296893
+            }
+          ],
+          "centroid": null,
+          "size": 0.6960826100399291
+        },
+        {
+          "id": "EC-06",
+          "name": "Nuwara-Eliya",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-06A",
+              "name": "Nuwara Eliya Maskeliya",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                2.63130815520431,
+                84.08003770225915
+              ],
+              "size": 0.6463876545850794
+            },
+            {
+              "id": "EC-06B",
+              "name": "Kothmale",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                3.597141931706597,
+                84.13312792780533
+              ],
+              "size": 0.3180880381278114
+            },
+            {
+              "id": "EC-06C",
+              "name": "Hanguranketha",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                4.155922436306062,
+                84.74906169658306
+              ],
+              "size": 0.2975365523763425
+            },
+            {
+              "id": "EC-06D",
+              "name": "Walapane",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                3.458951355782022,
+                85.29694286873809
+              ],
+              "size": 0.3203248351283428
+            }
+          ],
+          "centroid": null,
+          "size": 0.843589947782689
+        }
+      ],
+      "centroid": null,
+      "size": 1.6036074956173036
+    },
+    {
+      "id": "LK-3",
+      "name": "Southern",
+      "color": "#800",
+      "children": [
+        {
+          "id": "EC-07",
+          "name": "Galle",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-07A",
+              "name": "Balapitiya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                0.8762866572417309,
+                81.47700417169686
+              ],
+              "size": 0.2596767220988435
+            },
+            {
+              "id": "EC-07B",
+              "name": "Ambalangoda",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                0.9906724470211045,
+                82.03932770137736
+              ],
+              "size": 0.30218371895256035
+            },
+            {
+              "id": "EC-07C",
+              "name": "Karandeniya",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                0.9567661509226564,
+                82.64691089905072
+              ],
+              "size": 0.3043994086722246
+            },
+            {
+              "id": "EC-07D",
+              "name": "Bentara Elpitiya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                1.63389374398718,
+                82.14690627270288
+              ],
+              "size": 0.3407975938882198
+            },
+            {
+              "id": "EC-07E",
+              "name": "Hiniduma",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                1.039955126170121,
+                83.30821010713855
+              ],
+              "size": 0.3562148228246545
+            },
+            {
+              "id": "EC-07F",
+              "name": "Baddegama",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                0.29863722576757207,
+                82.7294341514057
+              ],
+              "size": 0.35353641962321225
+            },
+            {
+              "id": "EC-07G",
+              "name": "Ratgama",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                0.29284151040396467,
+                81.11139597026757
+              ],
+              "size": 0.3230061918911153
+            },
+            {
+              "id": "EC-07H",
+              "name": "Galle",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -0.3055418623351595,
+                81.76456161846274
+              ],
+              "size": 0.3189811906680392
+            },
+            {
+              "id": "EC-07I",
+              "name": "Akmeemana",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -0.41342919149248664,
+                82.4424291687305
+              ],
+              "size": 0.3579203822081107
+            },
+            {
+              "id": "EC-07J",
+              "name": "Habaraduwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -0.050800902386433235,
+                83.41154813023824
+              ],
+              "size": 0.32751946507039853
+            }
+          ],
+          "centroid": null,
+          "size": 1.0311808764712425
+        },
+        {
+          "id": "EC-08",
+          "name": "Matara",
+          "color": "#080",
+          "children": [
+            {
+              "id": "EC-08A",
+              "name": "Deniyaya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -0.7743936297682747,
+                84.77801985954254
+              ],
+              "size": 0.364695763616744
+            },
+            {
+              "id": "EC-08B",
+              "name": "Hakmana",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -1.3286676343108275,
+                85.48120333497285
+              ],
+              "size": 0.33825138580647385
+            },
+            {
+              "id": "EC-08C",
+              "name": "Akuressa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -2.01349793854804,
+                84.79550496529156
+              ],
+              "size": 0.3465140689784471
+            },
+            {
+              "id": "EC-08D",
+              "name": "Kamburupitiya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -1.984510911356396,
+                85.46047757176565
+              ],
+              "size": 0.3173956521441338
+            },
+            {
+              "id": "EC-08E",
+              "name": "Devinuwara",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -2.6191552947670775,
+                85.78475348437088
+              ],
+              "size": 0.31612813857674865
+            },
+            {
+              "id": "EC-08F",
+              "name": "Matara",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -2.7010938927838017,
+                84.86843299643296
+              ],
+              "size": 0.34030133705291254
+            },
+            {
+              "id": "EC-08G",
+              "name": "Weligama",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -2.118478694459376,
+                84.09458696807799
+              ],
+              "size": 0.35346994214501465
+            }
+          ],
+          "centroid": null,
+          "size": 0.9022460861649664
+        },
+        {
+          "id": "EC-09",
+          "name": "Hambantota",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-09A",
+              "name": "Mulkirigala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                0.6535731140084446,
+                86.45998184989632
+              ],
+              "size": 0.35630043502639736
+            },
+            {
+              "id": "EC-09B",
+              "name": "Beliatta",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -0.1064394951859059,
+                86.45343347167214
+              ],
+              "size": 0.31290573660449245
+            },
+            {
+              "id": "EC-09C",
+              "name": "Tangalle",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -0.09908144640488062,
+                87.16217961506688
+              ],
+              "size": 0.3954642841016114
+            },
+            {
+              "id": "EC-09D",
+              "name": "Thissamaharama",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                0.7941188636890036,
+                87.89019750827013
+              ],
+              "size": 0.4673317879194609
+            }
+          ],
+          "centroid": null,
+          "size": 0.774534053479897
+        }
+      ],
+      "centroid": null,
+      "size": 1.5739393253871001
+    },
+    {
+      "id": "LK-4",
+      "name": "Northern",
+      "color": "#080",
+      "children": [
+        {
+          "id": "EC-10",
+          "name": "Jaffna",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-10A",
+              "name": "Kayts",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                22.46996351242867,
+                80.80346159040009
+              ],
+              "size": 0.26967758527545443
+            },
+            {
+              "id": "EC-10B",
+              "name": "Vaddukoddai",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                22.40362410846591,
+                80.2787067057002
+              ],
+              "size": 0.2549960784012178
+            },
+            {
+              "id": "EC-10C",
+              "name": "Kankesanthurai",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                22.840314886837138,
+                80.88079850766069
+              ],
+              "size": 0.10001499887516871
+            },
+            {
+              "id": "EC-10D",
+              "name": "Manipay",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                22.338977011286147,
+                81.3605446862965
+              ],
+              "size": 0.28722987309818593
+            },
+            {
+              "id": "EC-10E",
+              "name": "Kopay",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                22.256713386591983,
+                82.19488524937366
+              ],
+              "size": 0.2774833328328028
+            },
+            {
+              "id": "EC-10F",
+              "name": "Udupiddy",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                23.170501416117634,
+                81.72688511135097
+              ],
+              "size": 0.2275258227103025
+            },
+            {
+              "id": "EC-10G",
+              "name": "Point Pedro",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                22.73890769842669,
+                81.85169782632569
+              ],
+              "size": 0.20378174599310903
+            },
+            {
+              "id": "EC-10H",
+              "name": "Chavakachcheri",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                21.800791611144,
+                81.610494766338
+              ],
+              "size": 0.2507289373008229
+            },
+            {
+              "id": "EC-10I",
+              "name": "Nallur",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                21.88686426813673,
+                80.54508730534845
+              ],
+              "size": 0.2610402267850685
+            },
+            {
+              "id": "EC-10J",
+              "name": "Jaffna",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                21.763095211718113,
+                81.03083838159272
+              ],
+              "size": 0.22470202491299449
+            },
+            {
+              "id": "EC-10K",
+              "name": "Kilinochchi",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                21.212030133833526,
+                81.92937987401656
+              ],
+              "size": 0.33691245153600363
+            }
+          ],
+          "centroid": null,
+          "size": 0.8350999940126931
+        },
+        {
+          "id": "EC-11",
+          "name": "Vanni",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-11A",
+              "name": "Mannar",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                19.99340011309387,
+                81.46079881312097
+              ],
+              "size": 0.3155471438628466
+            },
+            {
+              "id": "EC-11B",
+              "name": "Vavuniya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                19.852198115715023,
+                82.19240807213738
+              ],
+              "size": 0.41480115718257105
+            },
+            {
+              "id": "EC-11C",
+              "name": "Mullaitivu",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                20.571420498123366,
+                82.2152710099701
+              ],
+              "size": 0.30363300215885625
+            }
+          ],
+          "centroid": null,
+          "size": 0.6031774200017769
+        }
+      ],
+      "centroid": null,
+      "size": 1.0301529012724278
+    },
+    {
+      "id": "LK-5",
+      "name": "Eastern",
+      "color": "#f80",
+      "children": [
+        {
+          "id": "EC-12",
+          "name": "Batticaloa",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-12A",
+              "name": "Kalkudah",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                11.629547230087738,
+                88.03966533906237
+              ],
+              "size": 0.39569053564622947
+            },
+            {
+              "id": "EC-12B",
+              "name": "Batticaloa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                10.73947528274701,
+                88.35086786783583
+              ],
+              "size": 0.4926083637130007
+            },
+            {
+              "id": "EC-12C",
+              "name": "Paddiruppu",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                10.301230202195008,
+                89.193199938514
+              ],
+              "size": 0.34893409119775043
+            }
+          ],
+          "centroid": null,
+          "size": 0.7256493643627064
+        },
+        {
+          "id": "EC-13",
+          "name": "Digamadulla",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-13A",
+              "name": "Ampara",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                9.395865849955085,
+                86.36310042194202
+              ],
+              "size": 0.47092568415833935
+            },
+            {
+              "id": "EC-13B",
+              "name": "Samanthurai",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                8.986053433164235,
+                87.16988802770325
+              ],
+              "size": 0.3354459718047006
+            },
+            {
+              "id": "EC-13C",
+              "name": "Kalmunai",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                9.636962560951174,
+                87.43071246299547
+              ],
+              "size": 0.31458385209670253
+            },
+            {
+              "id": "EC-13D",
+              "name": "Pothuvil",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                8.191020349198613,
+                86.94489941955885
+              ],
+              "size": 0.45929837796360656
+            }
+          ],
+          "centroid": null,
+          "size": 0.8058548256354863
+        },
+        {
+          "id": "EC-14",
+          "name": "Trincomalee",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-14A",
+              "name": "Seruvila",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                12.566160574666483,
+                86.23809578550035
+              ],
+              "size": 0.3222561093292104
+            },
+            {
+              "id": "EC-14B",
+              "name": "Trincomalee",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                13.256002370583479,
+                86.6451931445086
+              ],
+              "size": 0.36640414844813096
+            },
+            {
+              "id": "EC-14C",
+              "name": "Muttur",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                12.078134825893416,
+                87.01417913567823
+              ],
+              "size": 0.3669073452521767
+            }
+          ],
+          "centroid": null,
+          "size": 0.6160689896432054
+        }
+      ],
+      "centroid": null,
+      "size": 1.2472008659394043
+    },
+    {
+      "id": "LK-6",
+      "name": "North Western",
+      "color": "#f80",
+      "children": [
+        {
+          "id": "EC-15",
+          "name": "Kurunegala",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-15A",
+              "name": "Galgamuwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                4.6898242026505725,
+                78.36381373529433
+              ],
+              "size": 0.3574395053711887
+            },
+            {
+              "id": "EC-15B",
+              "name": "Nikaweratiya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                3.986133458125068,
+                78.7110929962228
+              ],
+              "size": 0.3458077500577452
+            },
+            {
+              "id": "EC-15C",
+              "name": "Yapahuwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                3.99279885671258,
+                79.42978888583075
+              ],
+              "size": 0.37265533673892287
+            },
+            {
+              "id": "EC-15D",
+              "name": "Hiriyala",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.286144944829518,
+                78.60548397575134
+              ],
+              "size": 0.3536919563688154
+            },
+            {
+              "id": "EC-15E",
+              "name": "Wariyapola",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                3.2737909227053255,
+                77.93867991723947
+              ],
+              "size": 0.3124771991681953
+            },
+            {
+              "id": "EC-15F",
+              "name": "Panduwasnuwara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                3.8933606000975063,
+                77.88955762905296
+              ],
+              "size": 0.3061829518441548
+            },
+            {
+              "id": "EC-15G",
+              "name": "Bingiriya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.4879526160725973,
+                77.24420143808676
+              ],
+              "size": 0.33849667649771686
+            },
+            {
+              "id": "EC-15H",
+              "name": "Katugampola",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                2.607800012464323,
+                77.68209086578291
+              ],
+              "size": 0.3524556709715422
+            },
+            {
+              "id": "EC-15I",
+              "name": "Kuliyapitiya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                2.4212980358664193,
+                78.39827514031423
+              ],
+              "size": 0.3624610323883107
+            },
+            {
+              "id": "EC-15J",
+              "name": "Dambadeniya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                2.2352968952042396,
+                79.10729228115092
+              ],
+              "size": 0.34633221045695417
+            },
+            {
+              "id": "EC-15K",
+              "name": "Polgahawela",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                2.897667422794087,
+                79.27452634440557
+              ],
+              "size": 0.3145822626913348
+            },
+            {
+              "id": "EC-15L",
+              "name": "Kurunegala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                3.2849272139379515,
+                80.142413670783
+              ],
+              "size": 0.3391415633625581
+            },
+            {
+              "id": "EC-15M",
+              "name": "Mawathagama",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                2.5471042361067466,
+                79.93148052981145
+              ],
+              "size": 0.341625525978373
+            },
+            {
+              "id": "EC-15N",
+              "name": "Dodangaslanda",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                3.99125851380211,
+                80.10098668329162
+              ],
+              "size": 0.2978489550090784
+            }
+          ],
+          "centroid": null,
+          "size": 1.2717259924999567
+        },
+        {
+          "id": "EC-16",
+          "name": "Puttalam",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-16A",
+              "name": "Puttalam",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                7.166555950897577,
+                75.85825692054836
+              ],
+              "size": 0.46587122684278326
+            },
+            {
+              "id": "EC-16B",
+              "name": "Anamaduwa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                6.837656023260605,
+                76.74821013277499
+              ],
+              "size": 0.38364306327626985
+            },
+            {
+              "id": "EC-16C",
+              "name": "Chilaw",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                6.034629107743041,
+                75.47051830753357
+              ],
+              "size": 0.3874067629765903
+            },
+            {
+              "id": "EC-16D",
+              "name": "Nattandiya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                6.117173448457468,
+                76.19506788801336
+              ],
+              "size": 0.3364862552913566
+            },
+            {
+              "id": "EC-16E",
+              "name": "Wennappuwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                5.408690019038987,
+                76.52616437891128
+              ],
+              "size": 0.359502433927783
+            }
+          ],
+          "centroid": null,
+          "size": 0.8731529075711768
+        }
+      ],
+      "centroid": null,
+      "size": 1.5426221183426614
+    },
+    {
+      "id": "LK-7",
+      "name": "North Central",
+      "color": "#f80",
+      "children": [
+        {
+          "id": "EC-17",
+          "name": "Anuradhapura",
+          "color": "#800",
+          "children": [
+            {
+              "id": "EC-17A",
+              "name": "Medawachchiya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                15.616639516876807,
+                82.68432930772553
+              ],
+              "size": 0.34227328262661694
+            },
+            {
+              "id": "EC-17B",
+              "name": "Horowpothana",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                15.150709638257302,
+                83.3612819489212
+              ],
+              "size": 0.3303498145905337
+            },
+            {
+              "id": "EC-17C",
+              "name": "Anuradhapura East",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                14.79973742228277,
+                82.10182376840652
+              ],
+              "size": 0.3421286307808804
+            },
+            {
+              "id": "EC-17D",
+              "name": "Anuradhapura West",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                15.517733800193378,
+                81.65940315275154
+              ],
+              "size": 0.3745290375925477
+            },
+            {
+              "id": "EC-17E",
+              "name": "Kalawewa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                14.056695909212083,
+                81.99528316571406
+              ],
+              "size": 0.400158718510543
+            },
+            {
+              "id": "EC-17F",
+              "name": "Mihinthale",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                14.623017434392542,
+                82.73760310020512
+              ],
+              "size": 0.29284808348357
+            },
+            {
+              "id": "EC-17G",
+              "name": "Kekirawa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                14.003905348739886,
+                83.08457543783283
+              ],
+              "size": 0.325963188105651
+            }
+          ],
+          "centroid": null,
+          "size": 0.927671816969773
+        },
+        {
+          "id": "EC-18",
+          "name": "Polonnaruwa",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-18A",
+              "name": "Minneriya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                14.106118293813585,
+                84.02192716169276
+              ],
+              "size": 0.32894376419078075
+            },
+            {
+              "id": "EC-18B",
+              "name": "Medirigiriya",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                14.450542999613196,
+                84.67056817746271
+              ],
+              "size": 0.319416655796156
+            },
+            {
+              "id": "EC-18C",
+              "name": "Polonnaruwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                13.575080265535144,
+                84.85611663529448
+              ],
+              "size": 0.4425573409175358
+            }
+          ],
+          "centroid": null,
+          "size": 0.6372503432717789
+        }
+      ],
+      "centroid": null,
+      "size": 1.125461238781683
+    },
+    {
+      "id": "LK-8",
+      "name": "Uva",
+      "color": "#080",
+      "children": [
+        {
+          "id": "EC-19",
+          "name": "Badulla",
+          "color": "#080",
+          "children": [
+            {
+              "id": "EC-19A",
+              "name": "Mahiyanganaya",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                5.244452729157283,
+                87.42383219929428
+              ],
+              "size": 0.3569229608753127
+            },
+            {
+              "id": "EC-19B",
+              "name": "Viyaluwa",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                4.631277243493257,
+                87.48360228685823
+              ],
+              "size": 0.2556657974778793
+            },
+            {
+              "id": "EC-19C",
+              "name": "Passara",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                4.246971918401166,
+                88.023151994677
+              ],
+              "size": 0.2831748576409989
+            },
+            {
+              "id": "EC-19D",
+              "name": "Badulla",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                4.530906765357271,
+                86.95387950742614
+              ],
+              "size": 0.27393794917827646
+            },
+            {
+              "id": "EC-19E",
+              "name": "Hali Ela",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.959017044143446,
+                86.83431130677792
+              ],
+              "size": 0.2976424028931362
+            },
+            {
+              "id": "EC-19F",
+              "name": "Uva Paranagama",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                4.623051497176861,
+                86.29794373772378
+              ],
+              "size": 0.2792812202780559
+            },
+            {
+              "id": "EC-19G",
+              "name": "Welimada",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                3.669962242461553,
+                86.21499791436446
+              ],
+              "size": 0.32062750973676607
+            },
+            {
+              "id": "EC-19H",
+              "name": "Bandarawela",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.6307712021561587,
+                87.75320719769977
+              ],
+              "size": 0.3326905469050781
+            },
+            {
+              "id": "EC-19I",
+              "name": "Haputale",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.368501643777738,
+                87.12748528198944
+              ],
+              "size": 0.2921677600283782
+            }
+          ],
+          "centroid": null,
+          "size": 0.9029977851578597
+        },
+        {
+          "id": "EC-20",
+          "name": "Moneragala",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-20A",
+              "name": "Bibile",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                4.482099335456645,
+                89.01522100706302
+              ],
+              "size": 0.3277926173665295
+            },
+            {
+              "id": "EC-20B",
+              "name": "Monaragala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                3.7748267157633153,
+                89.67834219205758
+              ],
+              "size": 0.3790290226354705
+            },
+            {
+              "id": "EC-20C",
+              "name": "Wellawaya",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                3.2884011652336955,
+                88.75496499939868
+              ],
+              "size": 0.4471543357723371
+            }
+          ],
+          "centroid": null,
+          "size": 0.6716085169203857
+        }
+      ],
+      "centroid": null,
+      "size": 1.1253723828137956
+    },
+    {
+      "id": "LK-9",
+      "name": "Sabaragamuwa",
+      "color": "#800",
+      "children": [
+        {
+          "id": "EC-21",
+          "name": "Ratnapura",
+          "color": "#f80",
+          "children": [
+            {
+              "id": "EC-21A",
+              "name": "Eheliyagoda",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -1.3596731480998427,
+                78.11749951584275
+              ],
+              "size": 0.3335520948817441
+            },
+            {
+              "id": "EC-21B",
+              "name": "Ratnapura",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -1.166386812870427,
+                78.84743466017127
+              ],
+              "size": 0.3959608566512604
+            },
+            {
+              "id": "EC-21C",
+              "name": "Pelmadulla",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -1.8960685515506601,
+                79.11431205567592
+              ],
+              "size": 0.3335266106324951
+            },
+            {
+              "id": "EC-21D",
+              "name": "Balangoda",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -1.6321449950844598,
+                79.8230421738204
+              ],
+              "size": 0.374750583722027
+            },
+            {
+              "id": "EC-21E",
+              "name": "Rakwana",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -2.596668645129955,
+                78.90365715483628
+              ],
+              "size": 0.366113370419601
+            },
+            {
+              "id": "EC-21F",
+              "name": "Nivithigala",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                -2.0658755333758436,
+                78.05421800743574
+              ],
+              "size": 0.3718279171875076
+            },
+            {
+              "id": "EC-21G",
+              "name": "Kalawana",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -2.7392404778018484,
+                78.23576973745807
+              ],
+              "size": 0.30136688603760037
+            },
+            {
+              "id": "EC-21H",
+              "name": "Kolonna",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                -2.8105679147178924,
+                79.69519938119424
+              ],
+              "size": 0.4250494088926604
+            }
+          ],
+          "centroid": null,
+          "size": 1.0430757402988529
+        },
+        {
+          "id": "EC-22",
+          "name": "Kegalle",
+          "color": "#080",
+          "children": [
+            {
+              "id": "EC-22A",
+              "name": "Dedigama",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                1.013440561472595,
+                76.93923509660365
+              ],
+              "size": 0.3362380109386801
+            },
+            {
+              "id": "EC-22B",
+              "name": "Galigamuwa",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                0.7419983788653219,
+                77.5679126292533
+              ],
+              "size": 0.291492710028913
+            },
+            {
+              "id": "EC-22C",
+              "name": "Kegalle",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                1.007468351541229,
+                78.15794732460165
+              ],
+              "size": 0.2983253257770785
+            },
+            {
+              "id": "EC-22D",
+              "name": "Rambukkana",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                1.5936799851772836,
+                77.76236378665297
+              ],
+              "size": 0.28769602013236123
+            },
+            {
+              "id": "EC-22E",
+              "name": "Mawanella",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                0.8404534683326501,
+                78.80246496242421
+              ],
+              "size": 0.3450057970527452
+            },
+            {
+              "id": "EC-22F",
+              "name": "Aranayaka",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                0.23255050735896077,
+                78.11116768373455
+              ],
+              "size": 0.2510338622576644
+            },
+            {
+              "id": "EC-22G",
+              "name": "Yatiyanthota",
+              "color": "#080",
+              "children": null,
+              "centroid": [
+                0.13705024184962317,
+                77.16685160521607
+              ],
+              "size": 0.3125907868124075
+            },
+            {
+              "id": "EC-22H",
+              "name": "Ruwanwella",
+              "color": "#f80",
+              "children": null,
+              "centroid": [
+                0.20484127593807724,
+                76.5393033658925
+              ],
+              "size": 0.3148444060166863
+            },
+            {
+              "id": "EC-22I",
+              "name": "Deraniyagala",
+              "color": "#800",
+              "children": null,
+              "centroid": [
+                -0.463492686276649,
+                77.78766562452665
+              ],
+              "size": 0.3032655601943617
+            }
+          ],
+          "centroid": null,
+          "size": 0.916868583822131
+        }
+      ],
+      "centroid": null,
+      "size": 1.388760238486111
+    }
+  ],
+  "centroid": null,
+  "size": null
+}

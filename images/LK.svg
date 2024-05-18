@@ -1,769 +1,769 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
   <g>
-    <rect x="168.90718919376292" y="100.0" width="662.0" height="800.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-    <text x="499.90718919376286" y="500.0" font-size="331.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+    <rect x="254.21428707810617" y="100.0" width="491.0" height="800.0" fill="white" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+    <text x="499.71428707810617" y="500.0" font-size="294.59999999999997" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
     <g>
-      <rect x="316.9071891937629" y="266.0" width="275.99999999999994" height="373.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="454.90718919376286" y="452.5" font-size="137.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="254.21428707810617" y="219.0" width="214.0" height="354.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="361.21428707810617" y="396.0" font-size="128.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="444.9071891937629" y="380.0" width="147.99999999999994" height="163.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="518.9071891937629" y="461.5" font-size="73.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="325.21428707810617" y="350.0" width="115.0" height="131.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="382.71428707810617" y="415.5" font-size="69.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="479.9071891937629" y="416.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="490.9071891937629" y="427.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
+          <rect x="366.21428707810617" y="380.0" width="22.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="377.21428707810617" y="391.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">CN</text>
         </g>
         <g>
-          <rect x="446.9071891937629" y="406.0" width="33.0" height="33.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="463.4071891937629" y="422.5" font-size="16.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
+          <rect x="340.21428707810617" y="376.0" width="26.0" height="26.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="353.21428707810617" y="389.0" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">CC</text>
         </g>
         <g>
-          <rect x="489.9071891937629" y="438.0" width="15.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="497.4071891937629" y="446.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="370.21428707810617" y="403.0" width="18.0" height="18.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="379.21428707810617" y="412.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Br</text>
         </g>
         <g>
-          <rect x="473.9071891937629" y="453.0" width="16.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="481.9071891937629" y="461.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
+          <rect x="388.21428707810617" y="396.0" width="19.0" height="19.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="397.71428707810617" y="405.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">CE</text>
         </g>
         <g>
-          <rect x="467.9071891937629" y="440.0" width="9.0" height="9.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="472.4071891937629" y="444.5" font-size="4.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
+          <rect x="353.21428707810617" y="407.0" width="14.0" height="14.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="360.21428707810617" y="414.0" font-size="8.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">CW</text>
         </g>
         <g>
-          <rect x="504.9071891937629" y="453.0" width="14.999999999999943" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="512.4071891937629" y="460.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="392.21428707810617" y="415.0" width="18.0" height="18.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="401.21428707810617" y="424.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dh</text>
         </g>
         <g>
-          <rect x="505.9071891937629" y="436.0" width="15.999999999999943" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="513.9071891937629" y="444.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
+          <rect x="379.21428707810617" y="433.0" width="19.0" height="18.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="388.71428707810617" y="442.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rt</text>
         </g>
         <g>
-          <rect x="499.9071891937629" y="380.0" width="32.99999999999994" height="33.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="516.4071891937629" y="396.5" font-size="16.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="377.21428707810617" y="350.0" width="26.0" height="27.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="390.21428707810617" y="363.5" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
         <g>
-          <rect x="502.9071891937629" y="418.0" width="17.999999999999943" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="511.90718919376286" y="427.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="388.21428707810617" y="377.0" width="20.0" height="19.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="398.21428707810617" y="386.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kt</text>
         </g>
         <g>
-          <rect x="549.9071891937629" y="403.0" width="43.0" height="43.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="571.4071891937629" y="424.5" font-size="21.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="408.21428707810617" y="371.0" width="30.0" height="31.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="423.21428707810617" y="386.5" font-size="18.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kd</text>
         </g>
         <g>
-          <rect x="521.9071891937629" y="437.0" width="28.0" height="28.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="535.9071891937629" y="451.0" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="410.21428707810617" y="402.0" width="25.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="422.71428707810617" y="414.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Av</text>
         </g>
         <g>
-          <rect x="526.9071891937629" y="465.0" width="43.0" height="43.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="548.4071891937629" y="486.5" font-size="21.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="410.21428707810617" y="430.0" width="30.0" height="30.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="425.21428707810617" y="445.0" font-size="18.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hm</text>
         </g>
         <g>
-          <rect x="493.9071891937629" y="468.0" width="32.99999999999994" height="33.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="510.40718919376286" y="484.5" font-size="16.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="350.21428707810617" y="421.0" width="27.0" height="27.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="363.71428707810617" y="434.5" font-size="16.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mh</text>
         </g>
         <g>
-          <rect x="468.9071891937629" y="501.0" width="42.0" height="42.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="489.9071891937629" y="522.0" font-size="21.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="362.21428707810617" y="451.0" width="30.0" height="30.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="377.21428707810617" y="466.0" font-size="18.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ks</text>
         </g>
         <g>
-          <rect x="444.9071891937629" y="455.0" width="29.0" height="28.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="459.4071891937629" y="469.0" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="325.21428707810617" y="420.0" width="25.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="337.71428707810617" y="432.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mr</text>
         </g>
       </g>
       <g>
-        <rect x="316.9071891937629" y="266.0" width="128.0" height="166.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="380.9071891937629" y="349.0" font-size="64.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="254.21428707810617" y="219.0" width="103.0" height="131.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="305.71428707810617" y="284.5" font-size="61.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="357.9071891937629" y="306.0" width="30.0" height="30.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="372.9071891937629" y="321.0" font-size="15.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
+          <rect x="307.21428707810617" y="248.0" width="26.0" height="25.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="320.21428707810617" y="260.5" font-size="15.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wt</text>
         </g>
         <g>
-          <rect x="327.9071891937629" y="311.0" width="25.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="340.4071891937629" y="323.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
+          <rect x="259.21428707810617" y="247.0" width="23.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="270.71428707810617" y="258.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ng</text>
         </g>
         <g>
-          <rect x="351.9071891937629" y="266.0" width="40.0" height="40.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="371.9071891937629" y="286.0" font-size="20.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="282.21428707810617" y="219.0" width="29.0" height="29.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="296.71428707810617" y="233.5" font-size="17.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kt</text>
         </g>
         <g>
-          <rect x="391.9071891937629" y="294.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="403.9071891937629" y="306.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="323.21428707810617" y="222.0" width="23.0" height="23.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="334.71428707810617" y="233.5" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dv</text>
         </g>
         <g>
-          <rect x="416.9071891937629" y="302.0" width="28.0" height="28.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="430.9071891937629" y="316.0" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="333.21428707810617" y="245.0" width="24.0" height="25.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="345.21428707810617" y="257.5" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mr</text>
         </g>
         <g>
-          <rect x="371.9071891937629" y="336.0" width="30.0" height="30.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="386.9071891937629" y="351.0" font-size="15.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="280.21428707810617" y="271.0" width="26.0" height="26.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="293.21428707810617" y="284.0" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mn</text>
         </g>
         <g>
-          <rect x="401.9071891937629" y="330.0" width="31.0" height="30.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="417.4071891937629" y="345.0" font-size="15.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="325.21428707810617" y="273.0" width="26.0" height="25.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="338.21428707810617" y="285.5" font-size="15.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">At</text>
         </g>
         <g>
-          <rect x="371.9071891937629" y="366.0" width="34.0" height="34.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="388.9071891937629" y="383.0" font-size="17.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
+          <rect x="297.21428707810617" y="297.0" width="27.0" height="27.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="310.71428707810617" y="310.5" font-size="16.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gm</text>
         </g>
         <g>
-          <rect x="316.9071891937629" y="335.0" width="35.0" height="35.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="334.4071891937629" y="352.5" font-size="17.0" text-anchor="middle" alignment-baseline="middle" fill="#000">J</text>
+          <rect x="254.21428707810617" y="274.0" width="26.0" height="27.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="267.21428707810617" y="287.5" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">JE</text>
         </g>
         <g>
-          <rect x="405.9071891937629" y="388.0" width="35.0" height="35.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="423.4071891937629" y="405.5" font-size="17.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="324.21428707810617" y="323.0" width="27.0" height="27.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="337.71428707810617" y="336.5" font-size="16.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mh</text>
         </g>
         <g>
-          <rect x="412.9071891937629" y="361.0" width="26.0" height="26.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="425.9071891937629" y="374.0" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="333.21428707810617" y="298.0" width="23.0" height="24.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="344.71428707810617" y="310.0" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dm</text>
         </g>
         <g>
-          <rect x="364.9071891937629" y="400.0" width="32.0" height="32.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="380.9071891937629" y="416.0" font-size="16.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="287.21428707810617" y="324.0" width="26.0" height="26.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="300.21428707810617" y="337.0" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">By</text>
         </g>
         <g>
-          <rect x="348.9071891937629" y="370.0" width="23.0" height="23.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="360.4071891937629" y="381.5" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="265.21428707810617" y="301.0" width="22.0" height="22.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="276.21428707810617" y="312.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
       </g>
       <g>
-        <rect x="397.9071891937629" y="543.0" width="90.0" height="96.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="442.9071891937629" y="591.0" font-size="45.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="375.21428707810617" y="481.0" width="93.0" height="92.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="421.71428707810617" y="527.0" font-size="55.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="422.9071891937629" y="543.0" width="27.0" height="27.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="436.4071891937629" y="556.5" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="390.21428707810617" y="481.0" width="24.0" height="24.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="402.21428707810617" y="493.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pn</text>
         </g>
         <g>
-          <rect x="427.9071891937629" y="570.0" width="31.0" height="32.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="443.4071891937629" y="586.0" font-size="15.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="414.21428707810617" y="504.0" width="25.0" height="26.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="426.71428707810617" y="517.0" font-size="15.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bn</text>
         </g>
         <g>
-          <rect x="458.9071891937629" y="544.0" width="29.0" height="29.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="473.4071891937629" y="558.5" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="439.21428707810617" y="483.0" width="25.0" height="25.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="451.71428707810617" y="495.5" font-size="15.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hr</text>
         </g>
         <g>
-          <rect x="460.9071891937629" y="579.0" width="19.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="470.4071891937629" y="588.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="426.21428707810617" y="530.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="436.21428707810617" y="540.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bl</text>
         </g>
         <g>
-          <rect x="436.9071891937629" y="602.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="448.9071891937629" y="614.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="410.21428707810617" y="550.0" width="23.0" height="23.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="421.71428707810617" y="561.5" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mt</text>
         </g>
         <g>
-          <rect x="397.9071891937629" y="577.0" width="27.0" height="27.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="411.4071891937629" y="590.5" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="375.21428707810617" y="514.0" width="24.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="387.21428707810617" y="526.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
         <g>
-          <rect x="407.9071891937629" y="611.0" width="28.0" height="28.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="421.9071891937629" y="625.0" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="386.21428707810617" y="539.0" width="24.0" height="25.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="398.21428707810617" y="551.5" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Br</text>
         </g>
         <g>
-          <rect x="460.9071891937629" y="600.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="471.9071891937629" y="611.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="446.21428707810617" y="547.0" width="22.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="457.21428707810617" y="557.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ag</text>
         </g>
       </g>
     </g>
     <g>
-      <rect x="592.9071891937629" y="348.0" width="147.0" height="269.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="666.4071891937629" y="482.5" font-size="73.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="474.21428707810617" y="557.0" width="146.0" height="186.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="547.2142870781062" y="650.0" font-size="87.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="649.9071891937629" y="407.0" width="90.0" height="114.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="694.9071891937629" y="464.0" font-size="45.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="474.21428707810617" y="575.0" width="95.0" height="94.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="521.7142870781062" y="622.0" font-size="56.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="668.9071891937629" y="448.0" width="11.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="674.4071891937629" y="453.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
+          <rect x="514.2142870781062" y="606.0" width="16.0" height="16.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="522.2142870781062" y="614.0" font-size="9.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gl</text>
         </g>
         <g>
-          <rect x="672.9071891937629" y="407.0" width="36.0" height="36.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="690.9071891937629" y="425.0" font-size="18.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="525.2142870781062" y="575.0" width="28.0" height="28.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="539.2142870781062" y="589.0" font-size="16.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hr</text>
         </g>
         <g>
-          <rect x="708.9071891937629" y="443.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="718.4071891937629" y="452.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="533.2142870781062" y="603.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="543.2142870781062" y="613.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pt</text>
         </g>
         <g>
-          <rect x="727.9071891937629" y="462.0" width="12.0" height="12.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="733.9071891937629" y="468.0" font-size="6.0" text-anchor="middle" alignment-baseline="middle" fill="#000">U</text>
+          <rect x="553.2142870781062" y="616.0" width="16.0" height="17.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="561.2142870781062" y="624.5" font-size="9.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ud</text>
         </g>
         <g>
-          <rect x="715.9071891937629" y="473.0" width="10.0" height="10.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="720.9071891937629" y="478.0" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">T</text>
+          <rect x="532.2142870781062" y="623.0" width="15.0" height="15.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="539.7142870781062" y="630.5" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Tl</text>
         </g>
         <g>
-          <rect x="693.9071891937629" y="462.0" width="22.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="704.9071891937629" y="472.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="509.21428707810617" y="625.0" width="22.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="520.2142870781062" y="635.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kn</text>
         </g>
         <g>
-          <rect x="687.9071891937629" y="483.0" width="15.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="695.4071891937629" y="491.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="515.2142870781062" y="646.0" width="18.0" height="18.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="524.2142870781062" y="655.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hw</text>
         </g>
         <g>
-          <rect x="668.9071891937629" y="465.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="678.4071891937629" y="474.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">S</text>
+          <rect x="494.21428707810617" y="592.0" width="20.0" height="20.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="504.21428707810617" y="602.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Sn</text>
         </g>
         <g>
-          <rect x="681.9071891937629" y="456.0" width="8.0" height="9.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="685.9071891937629" y="460.5" font-size="4.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="496.21428707810617" y="612.0" width="13.0" height="13.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="502.71428707810617" y="618.5" font-size="7.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mh</text>
         </g>
         <g>
-          <rect x="650.9071891937629" y="460.0" width="18.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="659.9071891937629" y="469.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">Y</text>
+          <rect x="474.21428707810617" y="607.0" width="19.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="483.71428707810617" y="617.0" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Yt</text>
         </g>
         <g>
-          <rect x="649.9071891937629" y="480.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="659.4071891937629" y="489.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">U</text>
+          <rect x="484.21428707810617" y="627.0" width="20.0" height="20.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="494.21428707810617" y="637.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ud</text>
         </g>
         <g>
-          <rect x="685.9071891937629" y="499.0" width="23.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="697.4071891937629" y="510.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
+          <rect x="533.2142870781062" y="645.0" width="22.0" height="22.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="544.2142870781062" y="656.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gm</text>
         </g>
         <g>
-          <rect x="664.9071891937629" y="499.0" width="21.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="675.4071891937629" y="509.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
+          <rect x="494.21428707810617" y="647.0" width="21.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="504.71428707810617" y="658.0" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Nw</text>
         </g>
       </g>
       <g>
-        <rect x="608.9071891937629" y="348.0" width="41.0" height="67.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="629.4071891937629" y="381.5" font-size="20.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="569.2142870781062" y="557.0" width="51.0" height="66.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="594.7142870781062" y="590.0" font-size="30.599999999999998" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="608.9071891937629" y="348.0" width="30.0" height="29.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="623.9071891937629" y="362.5" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="582.2142870781062" y="557.0" width="25.0" height="25.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="594.7142870781062" y="569.5" font-size="15.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dm</text>
         </g>
         <g>
-          <rect x="634.9071891937629" y="378.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="642.4071891937629" y="385.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">L</text>
+          <rect x="602.2142870781062" y="583.0" width="18.0" height="18.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="611.2142870781062" y="592.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Lg</text>
         </g>
         <g>
-          <rect x="609.9071891937629" y="377.0" width="18.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="618.9071891937629" y="386.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="569.2142870781062" y="582.0" width="20.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="579.2142870781062" y="592.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mt</text>
         </g>
         <g>
-          <rect x="615.9071891937629" y="395.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="625.9071891937629" y="405.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
-        </g>
-      </g>
-      <g>
-        <rect x="592.9071891937629" y="521.0" width="93.0" height="96.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="639.4071891937629" y="569.0" font-size="46.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="592.9071891937629" y="546.0" width="71.0" height="71.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="628.4071891937629" y="581.5" font-size="35.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
-        </g>
-        <g>
-          <rect x="635.9071891937629" y="529.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="644.4071891937629" y="537.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
-        </g>
-        <g>
-          <rect x="652.9071891937629" y="521.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="660.4071891937629" y="528.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
-        </g>
-        <g>
-          <rect x="667.9071891937629" y="530.0" width="18.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="676.9071891937629" y="538.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
-        </g>
-      </g>
-    </g>
-    <g>
-      <rect x="451.9071891937629" y="742.0" width="206.99999999999994" height="158.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="555.4071891937629" y="821.0" font-size="79.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-      <g>
-        <rect x="451.9071891937629" y="742.0" width="66.99999999999994" height="80.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="485.40718919376286" y="782.0" font-size="33.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="456.9071891937629" y="770.0" width="12.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="462.9071891937629" y="775.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="468.9071891937629" y="778.0" width="16.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="476.9071891937629" y="786.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
-        </g>
-        <g>
-          <rect x="473.9071891937629" y="762.0" width="15.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="481.4071891937629" y="770.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
-        </g>
-        <g>
-          <rect x="465.9071891937629" y="742.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="475.9071891937629" y="752.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="488.9071891937629" y="755.0" width="22.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="499.9071891937629" y="765.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
-        </g>
-        <g>
-          <rect x="491.9071891937629" y="776.0" width="20.999999999999943" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="502.40718919376286" y="786.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="451.9071891937629" y="782.0" width="17.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="460.4071891937629" y="791.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
-        </g>
-        <g>
-          <rect x="458.9071891937629" y="801.0" width="17.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="467.4071891937629" y="810.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
-        </g>
-        <g>
-          <rect x="475.9071891937629" y="797.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="486.9071891937629" y="808.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
-        </g>
-        <g>
-          <rect x="500.9071891937629" y="804.0" width="17.999999999999943" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="509.90718919376286" y="813.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="585.2142870781062" y="602.0" width="21.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="595.7142870781062" y="612.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rt</text>
         </g>
       </g>
       <g>
-        <rect x="509.9071891937629" y="823.0" width="63.99999999999994" height="77.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="541.9071891937629" y="861.5" font-size="31.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="546.2142870781062" y="669.0" width="66.0" height="74.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="579.2142870781062" y="706.0" font-size="39.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="521.9071891937629" y="823.0" width="23.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="533.4071891937629" y="834.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="546.2142870781062" y="704.0" width="39.0" height="39.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="565.7142870781062" y="723.5" font-size="23.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">NE</text>
         </g>
         <g>
-          <rect x="544.9071891937629" y="842.0" width="19.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="554.4071891937629" y="852.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="558.2142870781062" y="685.0" width="19.0" height="19.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="567.7142870781062" y="694.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kt</text>
         </g>
         <g>
-          <rect x="519.9071891937629" y="845.0" width="20.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="529.9071891937629" y="855.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="577.2142870781062" y="669.0" width="18.0" height="17.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="586.2142870781062" y="677.5" font-size="10.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hn</text>
         </g>
         <g>
-          <rect x="539.9071891937629" y="863.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="548.4071891937629" y="871.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
-        </g>
-        <g>
-          <rect x="556.9071891937629" y="862.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="565.4071891937629" y="870.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
-        </g>
-        <g>
-          <rect x="530.9071891937629" y="880.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="540.9071891937629" y="890.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
-        </g>
-        <g>
-          <rect x="509.9071891937629" y="867.0" width="20.999999999999943" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="520.4071891937629" y="878.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
-        </g>
-      </g>
-      <g>
-        <rect x="572.9071891937629" y="765.0" width="86.0" height="56.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="615.9071891937629" y="793.0" font-size="28.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="572.9071891937629" y="782.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="583.9071891937629" y="793.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
-        </g>
-        <g>
-          <rect x="577.9071891937629" y="804.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="586.4071891937629" y="812.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="594.9071891937629" y="790.0" width="27.0" height="27.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="608.4071891937629" y="803.5" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">T</text>
-        </g>
-        <g>
-          <rect x="621.9071891937629" y="765.0" width="37.0" height="37.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="640.4071891937629" y="783.5" font-size="18.0" text-anchor="middle" alignment-baseline="middle" fill="#000">T</text>
+          <rect x="592.2142870781062" y="689.0" width="20.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="602.2142870781062" y="698.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wl</text>
         </g>
       </g>
     </g>
     <g>
-      <rect x="392.9071891937629" y="100.0" width="74.0" height="110.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="429.9071891937629" y="155.0" font-size="37.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="467.21428707810617" y="743.0" width="227.0" height="151.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="580.7142870781062" y="818.5" font-size="90.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="392.9071891937629" y="100.0" width="58.0" height="57.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="421.9071891937629" y="128.5" font-size="28.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="467.21428707810617" y="743.0" width="88.0" height="82.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="511.21428707810617" y="784.0" font-size="49.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="420.9071891937629" y="121.0" width="13.0" height="13.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="427.4071891937629" y="127.5" font-size="6.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="480.21428707810617" y="768.0" width="15.0" height="16.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="487.71428707810617" y="776.0" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bl</text>
         </g>
         <g>
-          <rect x="392.9071891937629" y="113.0" width="11.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="398.4071891937629" y="118.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">V</text>
+          <rect x="495.21428707810617" y="763.0" width="18.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="504.21428707810617" y="772.5" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Am</text>
         </g>
         <g>
-          <rect x="408.9071891937629" y="109.0" width="2.0" height="2.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="409.9071891937629" y="110.0" font-size="1.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="513.2142870781062" y="764.0" width="19.0" height="19.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="522.7142870781062" y="773.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kr</text>
         </g>
         <g>
-          <rect x="403.9071891937629" y="112.0" width="14.0" height="14.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="410.9071891937629" y="119.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="497.21428707810617" y="743.0" width="21.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="507.71428707810617" y="753.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">BE</text>
         </g>
         <g>
-          <rect x="417.9071891937629" y="100.0" width="14.0" height="13.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="424.9071891937629" y="106.5" font-size="6.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="532.2142870781062" y="760.0" width="21.0" height="22.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="542.7142870781062" y="771.0" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hn</text>
         </g>
         <g>
-          <rect x="425.9071891937629" y="113.0" width="9.0" height="8.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="430.4071891937629" y="117.0" font-size="4.0" text-anchor="middle" alignment-baseline="middle" fill="#000">U</text>
+          <rect x="514.2142870781062" y="783.0" width="22.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="525.2142870781062" y="793.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bd</text>
         </g>
         <g>
-          <rect x="434.9071891937629" y="110.0" width="7.0" height="7.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="438.4071891937629" y="113.5" font-size="3.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="467.21428707810617" y="784.0" width="19.0" height="19.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="476.71428707810617" y="793.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rt</text>
         </g>
         <g>
-          <rect x="433.9071891937629" y="121.0" width="10.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="438.9071891937629" y="126.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
+          <rect x="486.21428707810617" y="802.0" width="20.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="496.21428707810617" y="811.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gl</text>
         </g>
         <g>
-          <rect x="409.9071891937629" y="129.0" width="11.0" height="12.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="415.4071891937629" y="135.0" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
+          <rect x="506.21428707810617" y="804.0" width="21.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="516.7142870781062" y="814.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ak</text>
         </g>
         <g>
-          <rect x="400.9071891937629" y="126.0" width="9.0" height="8.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="405.4071891937629" y="130.0" font-size="4.0" text-anchor="middle" alignment-baseline="middle" fill="#000">J</text>
-        </g>
-        <g>
-          <rect x="431.9071891937629" y="138.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="441.4071891937629" y="147.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="536.2142870781062" y="794.0" width="19.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="545.7142870781062" y="804.0" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hb</text>
         </g>
       </g>
       <g>
-        <rect x="410.9071891937629" y="161.0" width="56.0" height="49.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="438.9071891937629" y="185.5" font-size="24.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="555.2142870781062" y="815.0" width="71.0" height="79.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="590.7142870781062" y="854.5" font-size="42.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="410.9071891937629" y="187.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="419.4071891937629" y="195.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="576.2142870781062" y="815.0" width="21.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="586.7142870781062" y="826.0" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dn</text>
         </g>
         <g>
-          <rect x="437.9071891937629" y="181.0" width="29.0" height="29.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="452.4071891937629" y="195.5" font-size="14.0" text-anchor="middle" alignment-baseline="middle" fill="#000">V</text>
+          <rect x="597.2142870781062" y="832.0" width="21.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="607.7142870781062" y="842.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hk</text>
         </g>
         <g>
-          <rect x="450.9071891937629" y="161.0" width="16.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="458.9071891937629" y="168.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
-        </g>
-      </g>
-    </g>
-    <g>
-      <rect x="735.9071891937629" y="137.0" width="95.0" height="210.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="783.4071891937629" y="242.0" font-size="47.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-      <g>
-        <rect x="762.9071891937629" y="190.0" width="68.0" height="74.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="796.9071891937629" y="227.0" font-size="34.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="762.9071891937629" y="190.0" width="26.0" height="27.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="775.9071891937629" y="203.5" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="577.2142870781062" y="852.0" width="20.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="587.2142870781062" y="862.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ak</text>
         </g>
         <g>
-          <rect x="768.9071891937629" y="217.0" width="41.0" height="41.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="789.4071891937629" y="237.5" font-size="20.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="597.2142870781062" y="852.0" width="20.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="607.2142870781062" y="861.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Km</text>
         </g>
         <g>
-          <rect x="809.9071891937629" y="244.0" width="21.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="820.4071891937629" y="254.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="607.2142870781062" y="871.0" width="19.0" height="19.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="616.7142870781062" y="880.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dv</text>
+        </g>
+        <g>
+          <rect x="579.2142870781062" y="873.0" width="20.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="589.2142870781062" y="883.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mt</text>
+        </g>
+        <g>
+          <rect x="555.2142870781062" y="855.0" width="22.0" height="22.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="566.2142870781062" y="866.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wl</text>
         </g>
       </g>
       <g>
-        <rect x="756.9071891937629" y="264.0" width="69.0" height="83.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="791.4071891937629" y="305.5" font-size="34.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="626.2142870781062" y="764.0" width="68.0" height="53.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="660.2142870781062" y="790.5" font-size="31.799999999999997" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="756.9071891937629" y="264.0" width="38.0" height="38.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="775.9071891937629" y="283.0" font-size="19.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="626.2142870781062" y="772.0" width="22.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="637.2142870781062" y="782.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ml</text>
         </g>
         <g>
-          <rect x="795.9071891937629" y="292.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="805.4071891937629" y="301.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">S</text>
+          <rect x="627.2142870781062" y="796.0" width="19.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="636.7142870781062" y="805.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bl</text>
         </g>
         <g>
-          <rect x="808.9071891937629" y="275.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="817.4071891937629" y="283.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="646.2142870781062" y="793.0" width="24.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="658.2142870781062" y="805.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Tn</text>
         </g>
         <g>
-          <rect x="787.9071891937629" y="311.0" width="36.0" height="36.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="805.9071891937629" y="329.0" font-size="18.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
-        </g>
-      </g>
-      <g>
-        <rect x="735.9071891937629" y="137.0" width="40.0" height="53.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="755.9071891937629" y="163.5" font-size="20.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="735.9071891937629" y="159.0" width="17.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="744.4071891937629" y="168.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">S</text>
-        </g>
-        <g>
-          <rect x="737.9071891937629" y="137.0" width="23.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="749.4071891937629" y="148.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">T</text>
-        </g>
-        <g>
-          <rect x="752.9071891937629" y="167.0" width="23.0" height="23.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="764.4071891937629" y="178.5" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="666.2142870781062" y="764.0" width="28.0" height="28.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="680.2142870781062" y="778.0" font-size="16.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Th</text>
         </g>
       </g>
     </g>
     <g>
-      <rect x="168.90718919376292" y="139.0" width="148.0" height="184.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="242.90718919376292" y="231.0" font-size="74.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="444.21428707810617" y="100.0" width="77.0" height="118.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="482.71428707810617" y="159.0" font-size="46.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="220.90718919376292" y="205.0" width="96.0" height="118.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="268.9071891937629" y="264.0" font-size="48.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="444.21428707810617" y="100.0" width="73.0" height="75.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="480.71428707810617" y="137.5" font-size="43.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="260.9071891937629" y="205.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="271.9071891937629" y="216.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
+          <rect x="459.21428707810617" y="119.0" width="16.0" height="16.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="467.21428707810617" y="127.0" font-size="9.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ky</text>
         </g>
         <g>
-          <rect x="251.90718919376292" y="229.0" width="20.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="261.9071891937629" y="239.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
+          <rect x="444.21428707810617" y="122.0" width="15.0" height="15.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="451.71428707810617" y="129.5" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Vd</text>
         </g>
         <g>
-          <rect x="285.9071891937629" y="221.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="297.9071891937629" y="233.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">Y</text>
+          <rect x="466.21428707810617" y="113.0" width="6.0" height="6.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="469.21428707810617" y="116.0" font-size="3.5999999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kn</text>
         </g>
         <g>
-          <rect x="278.9071891937629" y="264.0" width="21.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="289.4071891937629" y="275.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="475.21428707810617" y="123.0" width="17.0" height="17.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="483.71428707810617" y="131.5" font-size="10.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mn</text>
         </g>
         <g>
-          <rect x="256.9071891937629" y="250.0" width="17.0" height="16.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="265.4071891937629" y="258.0" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
+          <rect x="501.21428707810617" y="125.0" width="16.0" height="17.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="509.21428707810617" y="133.5" font-size="9.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kp</text>
         </g>
         <g>
-          <rect x="240.90718919376292" y="251.0" width="16.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="248.90718919376292" y="258.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="488.21428707810617" y="100.0" width="14.0" height="13.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="495.21428707810617" y="106.5" font-size="7.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ud</text>
         </g>
         <g>
-          <rect x="220.90718919376292" y="252.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="230.90718919376292" y="262.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="492.21428707810617" y="113.0" width="13.0" height="12.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="498.71428707810617" y="119.0" font-size="7.199999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">PP</text>
         </g>
         <g>
-          <rect x="234.90718919376292" y="290.0" width="21.0" height="21.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="245.40718919376292" y="300.5" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="484.21428707810617" y="140.0" width="15.0" height="15.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="491.71428707810617" y="147.5" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ch</text>
         </g>
         <g>
-          <rect x="240.90718919376292" y="266.0" width="22.0" height="23.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="251.90718919376292" y="277.5" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="452.21428707810617" y="137.0" width="15.0" height="16.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="459.71428707810617" y="145.0" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Nl</text>
         </g>
         <g>
-          <rect x="274.9071891937629" y="303.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="284.9071891937629" y="313.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="467.21428707810617" y="142.0" width="14.0" height="13.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="474.21428707810617" y="148.5" font-size="7.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Jf</text>
         </g>
         <g>
-          <rect x="262.9071891937629" y="286.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="271.4071891937629" y="294.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
-        </g>
-        <g>
-          <rect x="273.9071891937629" y="245.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="283.4071891937629" y="254.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
-        </g>
-        <g>
-          <rect x="296.9071891937629" y="286.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="306.9071891937629" y="296.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
-        </g>
-        <g>
-          <rect x="300.9071891937629" y="261.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="308.4071891937629" y="268.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="491.21428707810617" y="155.0" width="20.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="501.21428707810617" y="165.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
       </g>
       <g>
-        <rect x="168.90718919376292" y="139.0" width="52.0" height="127.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="194.90718919376292" y="202.5" font-size="26.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="477.21428707810617" y="175.0" width="44.0" height="43.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="499.21428707810617" y="196.5" font-size="25.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="168.90718919376292" y="139.0" width="36.0" height="37.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="186.90718919376292" y="157.5" font-size="18.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="477.21428707810617" y="192.0" width="19.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="486.71428707810617" y="201.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mn</text>
         </g>
         <g>
-          <rect x="195.90718919376292" y="176.0" width="25.0" height="25.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="208.40718919376292" y="188.5" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="496.21428707810617" y="194.0" width="25.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="508.71428707810617" y="206.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Vv</text>
         </g>
         <g>
-          <rect x="169.90718919376292" y="200.0" width="26.0" height="25.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="182.90718919376292" y="212.5" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">C</text>
-        </g>
-        <g>
-          <rect x="175.90718919376292" y="225.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="185.40718919376292" y="234.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
-        </g>
-        <g>
-          <rect x="187.90718919376292" y="244.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="198.90718919376292" y="255.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
+          <rect x="500.21428707810617" y="175.0" width="19.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="509.71428707810617" y="184.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ml</text>
         </g>
       </g>
     </g>
     <g>
-      <rect x="527.9071891937629" y="127.0" width="125.0" height="104.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="590.4071891937629" y="179.0" font-size="52.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="620.2142870781062" y="393.0" width="110.0" height="177.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="675.2142870781062" y="481.5" font-size="66.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="527.9071891937629" y="127.0" width="74.0" height="77.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="564.9071891937629" y="165.5" font-size="37.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="673.2142870781062" y="441.0" width="57.0" height="62.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="701.7142870781062" y="472.0" font-size="34.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="566.9071891937629" y="127.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="576.9071891937629" y="137.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="673.2142870781062" y="441.0" width="23.0" height="24.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="684.7142870781062" y="453.0" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
         <g>
-          <rect x="582.9071891937629" y="147.0" width="19.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="592.4071891937629" y="156.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="679.2142870781062" y="465.0" width="30.0" height="30.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="694.2142870781062" y="480.0" font-size="18.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bt</text>
         </g>
         <g>
-          <rect x="553.9071891937629" y="151.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="563.9071891937629" y="161.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
-        </g>
-        <g>
-          <rect x="527.9071891937629" y="146.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="539.9071891937629" y="158.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
-        </g>
-        <g>
-          <rect x="536.9071891937629" y="174.0" width="27.0" height="27.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="550.4071891937629" y="187.5" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
-        </g>
-        <g>
-          <rect x="565.9071891937629" y="171.0" width="14.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="572.9071891937629" y="178.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
-        </g>
-        <g>
-          <rect x="567.9071891937629" y="186.0" width="18.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="576.9071891937629" y="195.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="709.2142870781062" y="482.0" width="21.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="719.7142870781062" y="492.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pd</text>
         </g>
       </g>
       <g>
-        <rect x="601.9071891937629" y="180.0" width="51.0" height="51.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="627.4071891937629" y="205.5" font-size="25.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="620.2142870781062" y="503.0" width="56.0" height="67.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="648.2142870781062" y="536.5" font-size="33.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="601.9071891937629" y="193.0" width="18.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="610.9071891937629" y="202.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="620.2142870781062" y="506.0" width="28.0" height="28.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="634.2142870781062" y="520.0" font-size="16.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Am</text>
         </g>
         <g>
-          <rect x="619.9071891937629" y="180.0" width="18.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="628.9071891937629" y="189.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="648.2142870781062" y="522.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="658.2142870781062" y="532.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Sm</text>
         </g>
         <g>
-          <rect x="619.9071891937629" y="198.0" width="33.0" height="33.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="636.4071891937629" y="214.5" font-size="16.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
-        </g>
-      </g>
-    </g>
-    <g>
-      <rect x="592.9071891937629" y="618.0" width="115.0" height="124.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="650.4071891937629" y="680.0" font-size="57.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-      <g>
-        <rect x="592.9071891937629" y="618.0" width="60.0" height="83.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="622.9071891937629" y="659.5" font-size="30.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
-        <g>
-          <rect x="620.9071891937629" y="618.0" width="22.0" height="22.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="631.9071891937629" y="629.0" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="657.2142870781062" y="503.0" width="19.0" height="19.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="666.7142870781062" y="512.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
         </g>
         <g>
-          <rect x="620.9071891937629" y="643.0" width="12.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="626.9071891937629" y="648.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">V</text>
-        </g>
-        <g>
-          <rect x="638.9071891937629" y="651.0" width="14.0" height="14.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="645.9071891937629" y="658.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
-        </g>
-        <g>
-          <rect x="625.9071891937629" y="656.0" width="13.0" height="13.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="632.4071891937629" y="662.5" font-size="6.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="610.9071891937629" y="655.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="618.4071891937629" y="662.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
-        </g>
-        <g>
-          <rect x="597.9071891937629" y="650.0" width="13.0" height="13.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="604.4071891937629" y="656.5" font-size="6.0" text-anchor="middle" alignment-baseline="middle" fill="#000">U</text>
-        </g>
-        <g>
-          <rect x="592.9071891937629" y="670.0" width="18.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="601.9071891937629" y="678.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
-        </g>
-        <g>
-          <rect x="625.9071891937629" y="669.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="635.4071891937629" y="678.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
-        </g>
-        <g>
-          <rect x="611.9071891937629" y="686.0" width="14.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="618.9071891937629" y="693.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">H</text>
+          <rect x="638.2142870781062" y="542.0" width="27.0" height="28.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="651.7142870781062" y="556.0" font-size="16.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pt</text>
         </g>
       </g>
       <g>
-        <rect x="652.9071891937629" y="663.0" width="55.0" height="79.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="680.4071891937629" y="702.5" font-size="27.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="621.2142870781062" y="393.0" width="44.0" height="58.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="643.2142870781062" y="422.0" font-size="26.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="677.9071891937629" y="663.0" width="18.0" height="18.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="686.9071891937629" y="672.0" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="621.2142870781062" y="415.0" width="19.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="630.7142870781062" y="425.0" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Sr</text>
         </g>
         <g>
-          <rect x="683.9071891937629" y="684.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="695.9071891937629" y="696.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="632.2142870781062" y="393.0" width="22.0" height="22.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="643.2142870781062" y="404.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Tr</text>
         </g>
         <g>
-          <rect x="652.9071891937629" y="708.0" width="34.0" height="34.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="669.9071891937629" y="725.0" font-size="17.0" text-anchor="middle" alignment-baseline="middle" fill="#000">W</text>
+          <rect x="643.2142870781062" y="428.0" width="22.0" height="23.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="654.2142870781062" y="439.5" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mt</text>
         </g>
       </g>
     </g>
     <g>
-      <rect x="351.9071891937629" y="639.0" width="100.0" height="161.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-      <text x="401.9071891937629" y="719.5" font-size="50.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <rect x="295.21428707810617" y="573.0" width="162.0" height="173.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="376.21428707810617" y="659.5" font-size="97.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
       <g>
-        <rect x="360.9071891937629" y="713.0" width="91.0" height="87.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="406.4071891937629" y="756.5" font-size="43.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="350.21428707810617" y="651.0" width="107.0" height="95.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="403.71428707810617" y="698.5" font-size="57.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="360.9071891937629" y="719.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="370.4071891937629" y="728.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">E</text>
+          <rect x="383.21428707810617" y="651.0" width="22.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="394.21428707810617" y="661.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gl</text>
         </g>
         <g>
-          <rect x="379.9071891937629" y="713.0" width="27.0" height="26.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="393.4071891937629" y="726.0" font-size="13.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
+          <rect x="394.21428707810617" y="672.0" width="21.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="404.71428707810617" y="682.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Nk</text>
         </g>
         <g>
-          <rect x="406.9071891937629" y="727.0" width="19.0" height="19.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="416.4071891937629" y="736.5" font-size="9.0" text-anchor="middle" alignment-baseline="middle" fill="#000">P</text>
+          <rect x="415.21428707810617" y="671.0" width="22.0" height="23.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="426.21428707810617" y="682.5" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Yp</text>
         </g>
         <g>
-          <rect x="427.9071891937629" y="722.0" width="24.0" height="24.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="439.9071891937629" y="734.0" font-size="12.0" text-anchor="middle" alignment-baseline="middle" fill="#000">B</text>
+          <rect x="390.21428707810617" y="693.0" width="22.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="401.21428707810617" y="703.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hr</text>
         </g>
         <g>
-          <rect x="404.9071891937629" y="746.0" width="23.0" height="23.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="416.4071891937629" y="757.5" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
+          <rect x="372.21428707810617" y="695.0" width="18.0" height="18.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="381.21428707810617" y="704.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wr</text>
         </g>
         <g>
-          <rect x="381.9071891937629" y="758.0" width="23.0" height="23.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="393.4071891937629" y="769.5" font-size="11.0" text-anchor="middle" alignment-baseline="middle" fill="#000">N</text>
+          <rect x="370.21428707810617" y="676.0" width="19.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="379.71428707810617" y="685.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pn</text>
         </g>
         <g>
-          <rect x="365.9071891937629" y="743.0" width="16.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="373.9071891937629" y="750.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="350.21428707810617" y="687.0" width="20.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="360.21428707810617" y="697.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bn</text>
         </g>
         <g>
-          <rect x="417.9071891937629" y="769.0" width="31.0" height="31.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="433.4071891937629" y="784.5" font-size="15.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="363.21428707810617" y="713.0" width="21.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="373.71428707810617" y="724.0" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kt</text>
+        </g>
+        <g>
+          <rect x="384.21428707810617" y="719.0" width="22.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="395.21428707810617" y="729.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
+        </g>
+        <g>
+          <rect x="406.21428707810617" y="725.0" width="21.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="416.71428707810617" y="735.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dm</text>
+        </g>
+        <g>
+          <rect x="412.21428707810617" y="706.0" width="19.0" height="19.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="421.71428707810617" y="715.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pl</text>
+        </g>
+        <g>
+          <rect x="437.21428707810617" y="693.0" width="20.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="447.21428707810617" y="703.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kr</text>
+        </g>
+        <g>
+          <rect x="431.21428707810617" y="716.0" width="20.0" height="20.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="441.21428707810617" y="726.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mw</text>
+        </g>
+        <g>
+          <rect x="437.21428707810617" y="673.0" width="18.0" height="18.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="446.21428707810617" y="682.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dd</text>
         </g>
       </g>
       <g>
-        <rect x="351.9071891937629" y="639.0" width="69.0" height="73.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-        <text x="386.4071891937629" y="675.5" font-size="34.0" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <rect x="295.21428707810617" y="573.0" width="62.0" height="78.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="326.21428707810617" y="612.0" font-size="37.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
         <g>
-          <rect x="351.9071891937629" y="657.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="361.9071891937629" y="667.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="305.21428707810617" y="573.0" width="28.0" height="28.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="319.21428707810617" y="587.0" font-size="16.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pt</text>
         </g>
         <g>
-          <rect x="371.9071891937629" y="666.0" width="14.0" height="14.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="378.9071891937629" y="673.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">G</text>
+          <rect x="334.21428707810617" y="585.0" width="23.0" height="23.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="345.71428707810617" y="596.5" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">An</text>
         </g>
         <g>
-          <rect x="385.9071891937629" y="653.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="393.4071891937629" y="660.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">K</text>
+          <rect x="295.21428707810617" y="609.0" width="24.0" height="24.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="307.21428707810617" y="621.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ch</text>
         </g>
         <g>
-          <rect x="375.9071891937629" y="639.0" width="14.0" height="14.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="382.9071891937629" y="646.0" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
+          <rect x="319.21428707810617" y="608.0" width="20.0" height="21.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="329.21428707810617" y="618.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Nt</text>
         </g>
         <g>
-          <rect x="400.9071891937629" y="659.0" width="20.0" height="20.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="410.9071891937629" y="669.0" font-size="10.0" text-anchor="middle" alignment-baseline="middle" fill="#000">M</text>
+          <rect x="328.21428707810617" y="629.0" width="21.0" height="22.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="338.71428707810617" y="640.0" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wn</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect x="482.21428707810617" y="323.0" width="120.0" height="85.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="542.2142870781062" y="365.5" font-size="51.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <g>
+        <rect x="482.21428707810617" y="323.0" width="72.0" height="69.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="518.2142870781062" y="357.5" font-size="41.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="513.2142870781062" y="323.0" width="21.0" height="21.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="523.7142870781062" y="333.5" font-size="12.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Md</text>
         </g>
         <g>
-          <rect x="386.9071891937629" y="673.0" width="11.0" height="11.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="392.4071891937629" y="678.5" font-size="5.0" text-anchor="middle" alignment-baseline="middle" fill="#000">A</text>
+          <rect x="534.2142870781062" y="337.0" width="20.0" height="20.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="544.2142870781062" y="347.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hr</text>
         </g>
         <g>
-          <rect x="368.9071891937629" y="680.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="377.4071891937629" y="688.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">Y</text>
+          <rect x="496.21428707810617" y="347.0" width="20.0" height="21.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="506.21428707810617" y="357.5" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">AE</text>
         </g>
         <g>
-          <rect x="351.9071891937629" y="679.0" width="17.0" height="17.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="360.4071891937629" y="687.5" font-size="8.0" text-anchor="middle" alignment-baseline="middle" fill="#000">R</text>
+          <rect x="482.21428707810617" y="325.0" width="22.0" height="22.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="493.21428707810617" y="336.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">AW</text>
         </g>
         <g>
-          <rect x="377.9071891937629" y="697.0" width="15.0" height="15.0" fill="#888" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
-          <text x="385.4071891937629" y="704.5" font-size="7.0" text-anchor="middle" alignment-baseline="middle" fill="#000">D</text>
+          <rect x="491.21428707810617" y="368.0" width="24.0" height="24.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="503.21428707810617" y="380.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
+        </g>
+        <g>
+          <rect x="516.2142870781062" y="354.0" width="18.0" height="18.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="525.2142870781062" y="363.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mh</text>
+        </g>
+        <g>
+          <rect x="526.2142870781062" y="372.0" width="19.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="535.7142870781062" y="381.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kk</text>
+        </g>
+      </g>
+      <g>
+        <rect x="554.2142870781062" y="359.0" width="48.0" height="49.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="578.2142870781062" y="383.5" font-size="28.799999999999997" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="554.2142870781062" y="369.0" width="20.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="564.2142870781062" y="378.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mn</text>
+        </g>
+        <g>
+          <rect x="574.2142870781062" y="359.0" width="19.0" height="19.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="583.7142870781062" y="368.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Md</text>
+        </g>
+        <g>
+          <rect x="576.2142870781062" y="381.0" width="26.0" height="27.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="589.2142870781062" y="394.5" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pl</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect x="620.2142870781062" y="634.0" width="125.0" height="83.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="682.7142870781062" y="675.5" font-size="49.8" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <g>
+        <rect x="620.2142870781062" y="634.0" width="72.0" height="76.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="656.2142870781062" y="672.0" font-size="43.199999999999996" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="655.2142870781062" y="634.0" width="22.0" height="22.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="666.2142870781062" y="645.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mh</text>
+        </g>
+        <g>
+          <rect x="660.2142870781062" y="656.0" width="15.0" height="15.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="667.7142870781062" y="663.5" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Vy</text>
+        </g>
+        <g>
+          <rect x="675.2142870781062" y="666.0" width="17.0" height="17.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="683.7142870781062" y="674.5" font-size="10.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ps</text>
+        </g>
+        <g>
+          <rect x="644.2142870781062" y="658.0" width="16.0" height="16.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="652.2142870781062" y="666.0" font-size="9.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bd</text>
+        </g>
+        <g>
+          <rect x="639.2142870781062" y="674.0" width="18.0" height="18.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="648.2142870781062" y="683.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">HE</text>
+        </g>
+        <g>
+          <rect x="624.2142870781062" y="655.0" width="17.0" height="17.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="632.7142870781062" y="663.5" font-size="10.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">UP</text>
+        </g>
+        <g>
+          <rect x="620.2142870781062" y="682.0" width="19.0" height="20.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="629.7142870781062" y="692.0" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wl</text>
+        </g>
+        <g>
+          <rect x="666.2142870781062" y="683.0" width="20.0" height="20.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="676.2142870781062" y="693.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bn</text>
+        </g>
+        <g>
+          <rect x="648.2142870781062" y="692.0" width="18.0" height="18.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="657.2142870781062" y="701.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Hp</text>
+        </g>
+      </g>
+      <g>
+        <rect x="693.2142870781062" y="658.0" width="52.0" height="59.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="719.2142870781062" y="687.5" font-size="31.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="704.2142870781062" y="658.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="714.2142870781062" y="668.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bb</text>
+        </g>
+        <g>
+          <rect x="722.2142870781062" y="678.0" width="23.0" height="22.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="733.7142870781062" y="689.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mn</text>
+        </g>
+        <g>
+          <rect x="693.2142870781062" y="690.0" width="26.0" height="27.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="706.2142870781062" y="703.5" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Wl</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect x="330.21428707810617" y="746.0" width="119.0" height="154.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+      <text x="389.71428707810617" y="823.0" font-size="71.39999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+      <g>
+        <rect x="373.21428707810617" y="825.0" width="76.0" height="75.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="411.21428707810617" y="862.5" font-size="45.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="376.21428707810617" y="833.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="386.21428707810617" y="843.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Eh</text>
+        </g>
+        <g>
+          <rect x="396.21428707810617" y="825.0" width="24.0" height="24.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="408.21428707810617" y="837.0" font-size="14.399999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rt</text>
+        </g>
+        <g>
+          <rect x="406.21428707810617" y="849.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="416.21428707810617" y="859.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Pl</text>
+        </g>
+        <g>
+          <rect x="426.21428707810617" y="840.0" width="23.0" height="23.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="437.71428707810617" y="851.5" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Bl</text>
+        </g>
+        <g>
+          <rect x="399.21428707810617" y="869.0" width="22.0" height="22.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="410.21428707810617" y="880.0" font-size="13.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rk</text>
+        </g>
+        <g>
+          <rect x="373.21428707810617" y="853.0" width="23.0" height="23.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="384.71428707810617" y="864.5" font-size="13.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Nv</text>
+        </g>
+        <g>
+          <rect x="381.21428707810617" y="876.0" width="18.0" height="18.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="390.21428707810617" y="885.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
+        </g>
+        <g>
+          <rect x="421.21428707810617" y="874.0" width="26.0" height="26.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="434.21428707810617" y="887.0" font-size="15.6" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kl</text>
+        </g>
+      </g>
+      <g>
+        <rect x="330.21428707810617" y="746.0" width="87.0" height="79.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+        <text x="373.71428707810617" y="785.5" font-size="47.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000"/>
+        <g>
+          <rect x="341.21428707810617" y="762.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="351.21428707810617" y="772.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dd</text>
+        </g>
+        <g>
+          <rect x="361.21428707810617" y="771.0" width="18.0" height="18.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="370.21428707810617" y="780.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Gl</text>
+        </g>
+        <g>
+          <rect x="379.21428707810617" y="763.0" width="18.0" height="18.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="388.21428707810617" y="772.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Kg</text>
+        </g>
+        <g>
+          <rect x="367.21428707810617" y="746.0" width="17.0" height="17.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="375.71428707810617" y="754.5" font-size="10.2" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rm</text>
+        </g>
+        <g>
+          <rect x="397.21428707810617" y="767.0" width="20.0" height="20.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="407.21428707810617" y="777.0" font-size="12.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Mw</text>
+        </g>
+        <g>
+          <rect x="379.21428707810617" y="788.0" width="15.0" height="15.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="386.71428707810617" y="795.5" font-size="9.0" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Ar</text>
+        </g>
+        <g>
+          <rect x="348.21428707810617" y="789.0" width="19.0" height="19.0" fill="#080" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="357.71428707810617" y="798.5" font-size="11.4" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Yt</text>
+        </g>
+        <g>
+          <rect x="330.21428707810617" y="787.0" width="18.0" height="19.0" fill="#f80" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="339.21428707810617" y="796.5" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Rw</text>
+        </g>
+        <g>
+          <rect x="367.21428707810617" y="807.0" width="19.0" height="18.0" fill="#800" fill-opacity="0.25" stroke="#fff" stroke-width="1"/>
+          <text x="376.71428707810617" y="816.0" font-size="10.799999999999999" font-family="sans-serif" text-anchor="middle" alignment-baseline="middle" fill="#000">Dr</text>
         </g>
       </g>
     </g>

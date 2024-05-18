@@ -6,6 +6,14 @@ from utils import Log, _
 log = Log('RenderRegion')
 
 
+def shorted_text(x):
+    x = ''.join([c for c in x if c not in 'aeiou'])
+    words = x.split()
+    if len(words) == 1:
+        return x[:2]
+    return words[0][0] + words[1][0]
+
+
 class RenderRegion:
     DIR_RENDER = 'images'
     WIDTH, HEIGHT = 1000, 1000
@@ -47,7 +55,10 @@ class RenderRegion:
         x_east, y_north = t(bbox.north_west)
         width = x_east - x_west
         height = y_south - y_north
-        font_size = min(width, height) // 2
+        font_size = min(width, height) * 0.6
+
+        text = None if region.children else shorted_text(region.name)
+
         inner = [
             _(
                 'rect',
@@ -57,7 +68,7 @@ class RenderRegion:
                     y=y_north,
                     width=width,
                     height=height,
-                    fill='#888',
+                    fill=region.color,
                     fill_opacity=0.25,
                     stroke='#fff',
                     stroke_width=1,
@@ -65,11 +76,12 @@ class RenderRegion:
             ),
             _(
                 'text',
-                None if region.children else region.name[:1],
+                text,
                 dict(
                     x=(x_west + x_east) / 2,
                     y=(y_south + y_north) / 2,
                     font_size=font_size,
+                    font_family='sans-serif',
                     text_anchor='middle',
                     alignment_baseline='middle',
                     fill='#000',
